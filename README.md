@@ -8,6 +8,7 @@ Tempermonkey script that adds a button to
 - Subscribestar
 - Boosty
 - Gumroad
+  
 userpages that opens their respective Kemono.su page.
 
 | Button Color | Meaning                                                                                   |
