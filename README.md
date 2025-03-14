@@ -13,5 +13,5 @@ userpages that opens their respective Kemono.su page.
 | Button Color | Meaning                                                                                   |
 |--------------|-------------------------------------------------------------------------------------------|
 | Green        | Kemono page available                                                                     |
-| Red          | Kemono page unavailable: - Does not have a Kemono page - CorsProxy issues - Kemono issues |
+| Red          | Kemono page unavailable:<br>- Does not have a Kemono page<br>- CorsProxy issues<br>- Kemono issues |
 | Purple       | Creator ID fetching issues                                                                |
