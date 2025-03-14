@@ -2,6 +2,8 @@
 // @name         OpenKemono
 // @author       Nox
 // @version      2.3
+// @homepage     https://github.com/NoxNecro/OpenKemono
+// @supporturl   https://github.com/NoxNecro/OpenKemono/issues
 // @description  Adds a button to Patreon, Pixiv Fanbox, Pixiv, Fantia, Subscribestar, Boosty and Gumroad that opens its respective Kemono user page. Also shows whether a user has a kemono page using colors.
 // @match        *://www.patreon.com/*
 // @match        *://*.fanbox.cc/*
